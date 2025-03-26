@@ -1,4 +1,4 @@
-# Ubuntu Server Performance Stats
+# Ubuntu Server Performance Statistics Monitor
 
 A Bash script to analyze basic server performance statistics on Ubuntu systems. It is designed for system monitoring and debugging.
 
