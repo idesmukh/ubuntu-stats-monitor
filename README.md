@@ -21,7 +21,7 @@ A Bash script to analyze basic server performance statistics on Ubuntu systems. 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/idesmukh/ubuntu-stats-monitor
+    git clone https://github.com/idesmukh/ubuntu-stats-monitor.git
     cd ubuntu-stats-monitor
     ```
 
@@ -40,8 +40,4 @@ Run the script from your terminal:
 
 ## License
 
-This project is licensed under the MIT License.
-
-## Author
-
-Created by Ibad Desmukh.
+This code is provided under the MIT license.
