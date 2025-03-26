@@ -1,17 +1,4 @@
 # Ubuntu Server Performance Stats
-A Bash script to analyze basic server performance stats on Ubuntu systems. It is designed for system monitoring and debugging.
-
-## Features
-- Total CPU usage monitoring  
-- Total memory usage monitoring (Free vs Used including percentage)
-- Implement total disk usage monitoring (Free vs Used including percentage)
-- Display top 5 processes by CPU usage
-- Display top 5 processes by memory usage
-
-## License
-[MIT](LICENSE)
-
-# Ubuntu Server Performance Stats
 
 A Bash script to analyze basic server performance statistics on Ubuntu systems. It is designed for system monitoring and debugging.
 
@@ -53,8 +40,8 @@ Run the script from your terminal:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Author
 
-This script was created by [Ibad Desmukh/idesmukh]. You can find more of my work on [idesmukh.github.io].
+Created by Ibad Desmukh.
